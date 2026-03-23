@@ -1,6 +1,11 @@
 # wk_font_work
 Change fonts in Warrior Kings® game resources
 
+4k downscaled back to FullHD examles:
+
+![menu](https://github.com/user-attachments/assets/5a47c195-f417-4397-a174-2cb121b7056e)
+![tut](https://github.com/user-attachments/assets/fb71965a-16eb-49c8-b9b2-eaf37a3b3457)
+
 You need an extracted game resources to work with. I'm on linux, so I used this fork of wktools https://github.com/inferrna/wktools
 
 The run-it-all script `change_font.sh` also assumes the following
